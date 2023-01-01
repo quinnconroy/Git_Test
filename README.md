@@ -1,2 +1,5 @@
-# Git_Test
-My first GitHub Repo
+# Git-Test
+My first Github repo
+Hello Odin
+Im testing the effects of edits again
+second try
